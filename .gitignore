@@ -1,0 +1,30 @@
+# IntelliJ project files
+.idea/
+*.iml
+out/
+gen/
+
+# Build files
+build/
+.gradle/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+steam_appid.txt
+latest-crash.log
+
+# Other
+*.tmp
+*~
